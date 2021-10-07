@@ -23,3 +23,33 @@ p {
   padding: 40px;
   margin: 35px;
 }
+div {
+  color: rgb(81, 236, 210);
+  background-color: hotpink;
+  font-family: monospace;
+  font-size: 20px;
+  text-indent: 55px;
+  width: 20%;
+  text-align: center;
+  text-decoration: underline;
+  border: 5px dashed green;
+  border-radius: 500px;
+  padding: 45px;
+  height: 200px;
+  margin: 50px;
+  text-shadow: 6px 6px 10px blue;
+}
+.nr {
+  color: green;
+  border: 5px dotted red;
+  border-radius: 70px;
+  text-align: justify;
+  padding: 45px;
+  width: 60%;
+  height: 110px;
+  background-color: rgba(228, 39, 39, 0.699);
+  text-shadow: 5px 4px 8px yellow;
+  font-family: cursive;
+  font-size: 15px;
+}
+
