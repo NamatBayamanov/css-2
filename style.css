@@ -1,0 +1,25 @@
+h1 {
+  color: rgba(0, 0, 0,);
+  font-size: 50px;
+  font-family: cursive;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+  text-shadow: 8px 8px 5px blue, 10px 10px 5px green;
+  background-color: rgb(255, 145, 0);
+}
+p {
+  color: blue;
+}
+.we {
+  font-family: cursive;
+  text-indent: 35px;
+  text-shadow: 3px 3px 6px red;
+  background-color: pink;
+  width: 800px;
+  text-align: center;
+  border: 3px solid rgb(239, 243, 6);
+  border-radius: 100px;
+  padding: 40px;
+  margin: 35px;
+}
