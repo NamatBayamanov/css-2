@@ -11,9 +11,6 @@ h1 {
   text-shadow: 8px 8px 5px blue, 10px 10px 5px green;
   background-color: rgb(255, 145, 0);
 }
-p {
-  color: blue;
-}
 .we {
   font-family: cursive;
   text-indent: 35px;
@@ -107,6 +104,10 @@ p {
   text-shadow: 5px 5px 10px rgb(252, 2, 2);
   font-family: cursive;
 }
+#to1 {
+  word-spacing: 30px;
+}
+
 h2 {
   color: black;
   background-color: chartreuse;
@@ -115,14 +116,72 @@ h2 {
   text-decoration: underline;
   text-shadow: 5px 5px 10px blue;
 }
+.they {
+  border: 5px dashed yellow;
+  border-radius: 100px;
+  width: 90%;
+  background-color: blue;
+  margin: 35px;
+  padding: 20px;
+ 
+}
 #mix {
   border: 3px solid red;
   width: 90%;
   border-radius: 80px;
-  background-color: saddlebrown;
+  background-color: rgb(194, 11, 102);
 
+}
+.go {
+  width: 50%;
+  border: 3px dashed greenyellow;
+  text-shadow: 5px 4px 8px rgb(250, 247, 247);
+}
+.iu {
+  letter-spacing: 20px;
+  background-color: rgb(187, 50, 205);
+}
+#iii {
+  background-color: violet;
+}
+.nnn {
+  background-color: rgb(14, 236, 6);
+}
+h3 {
+  text-align: center;
+  font-size: 40px;
+  text-decoration: underline;
+  text-shadow: 5px 6px 10px rgb(245, 6, 6);
+}
+#j {
+  width: 50%;
+  color: red;
+}
+#po {
+  color: blanchedalmond;
+  text-shadow: rgb(18, 2, 240);
+}
+.yes {
+  color: blue;
+}
+#type {
+  color: blueviolet;
 }
 table {
   color: blue;
   background-color: coral;
 }
+th {
+  font-size: 30px;
+}
+#ven {
+  color: red;
+}
+.sv {
+  color: rgb(77, 10, 139);
+  background-color: chartreuse;
+}
+.uip {
+  background-color: deeppink;
+}
+
